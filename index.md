@@ -15,6 +15,8 @@ I'm Hash, a deep learning engineer and researcher. Here's some cool work I've do
 ## Probability & Stochastic PDEs
 <a href="static/NLFH.pdf" target="_blank">Nonlinear Fluctuating Hydrodynamics</a>: a stochastic PDEs study of the equilibrium time correlations of the conserved fields of an anharmonic chain through non-linear fluctuating hydrodynamics.
 
+A compilation of some of my <a href="static/probability_problems.pdf" target="_blank">favorite probability problems and solutions</a>.
+
 ## General Relativity
 <a href="static/GR.pdf" target="_blank">Linearized Einstein Equations around the Schwarzschild black hole</a>
 
