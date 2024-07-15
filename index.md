@@ -20,6 +20,10 @@ A compilation of some of my <a href="static/probability_problems.pdf" target="_b
 ## General Relativity
 <a href="static/GR.pdf" target="_blank">Linearized Einstein Equations around the Schwarzschild black hole</a>
 
+## Patents
+- [Computing architecture for energy-efficient hash computation](https://patents.google.com/patent/US20240015006A1/en?oq=20240015006)
+- [Dynamically optimizing routing within a decentralized network](https://patents.google.com/patent/US11888730B1)
+
 ## Academic Awards
 
 | 2016      | SciNet Certificate in Scientific High Performance Computing |
