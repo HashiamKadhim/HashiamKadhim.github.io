@@ -14,7 +14,7 @@ I'm Hash, a deep learning engineer and researcher. Here's some of my work:
 ## Next Week Tonight (NWT)
 [NWT](https://youtu.be/HctArhfIGs4) is an expressive speech-to-video model. You can view some experiments on the [demo page](https://next-week-tonight.github.io/NWT/).
 
-# Non-deep Learning Related
+# Other interests
 ## Probability & Stochastic PDEs
 <a href="static/NLFH.pdf" target="_blank">Nonlinear Fluctuating Hydrodynamics</a>: a stochastic PDEs study of the equilibrium time correlations of the conserved fields of an anharmonic chain through non-linear fluctuating hydrodynamics.
 
