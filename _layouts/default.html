@@ -8,10 +8,18 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <head>
       <style>
+        body {color: #595959;}
         p.description {text-align: center;}
         h1.title {text-align: center;}
+        a:hover, a:focus {font-weight: inherit; text-decoration: underline;}
+        section h2 {margin-top: 28px; margin-bottom: 12px;}
+        section h1:not(:first-child) {margin-top: 40px;}
+
+        @media screen and (min-width: 961px) {
+          .wrapper {width: 1000px; max-width: 100%;}
+          section {width: calc(100% - 340px);}
+        }
       </style>
   </head>
   <body>
@@ -19,7 +27,7 @@
       <header>
         <h1 class="title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Nujabes album art" />
         {% endif %}
 
         <p class="description">{{ site.description | default: site.github.project_tagline }}</p>

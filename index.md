@@ -3,7 +3,10 @@ layout: default
 ---
 
 # Hi
-I'm Hash, a deep learning engineer and researcher. Here's some cool work I've done:
+I'm Hash, a deep learning engineer and researcher. Here's some of my work:
+
+## Dessa
+[Dessa](https://x.com/jack/status/2113697902916751661) is a full-duplex speech model trained entirely on human conversation. It listens and speaks at the same time, with natural timing, laughter, and emotional expression. You can hear some conversations on the [demo page](https://block.xyz/dessa).
 
 ## RealTalk
 [RealTalk](https://www.youtube.com/watch?v=DWK_iYBl8cA) was a state-of-the-art speech synthesis system. It was featured by the [New York Times](https://www.nytimes.com/2019/11/22/the-weekly/deepfake-joe-rogan.html), [Vice](https://www.vice.com/en_ca/article/597yba/ai-generated-fake-joe-rogan-voice-dessa), [The Verge](https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa), [Gizmodo](https://gizmodo.com/this-ai-generated-joe-rogan-voice-sounds-eerily-like-th-1834842151), and others.
